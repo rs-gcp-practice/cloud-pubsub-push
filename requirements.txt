@@ -1,0 +1,4 @@
+Flask
+django-environ
+google-auth
+google-cloud-pubsub
